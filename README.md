@@ -24,7 +24,7 @@ Program ini adalah aplikasi manajemen fasilitas gym berbasis Java dan menerapkan
 - Menyimpan atribut seperti idFasilitas, namaFasilitas, dan status, serta constructor untuk menginisialisasi objek.
 - Fungsi utama package ini adalah menyimpan struktur data yang akan digunakan oleh logika program.
 2. Package service
--Berisi class FasilitasService yang berfungsi sebagai pengelola data fasilitas.
+- Berisi class FasilitasService yang berfungsi sebagai pengelola data fasilitas.
 - Di sini terdapat logika CRUD: menambah (tambahFasilitas), melihat (lihatFasilitas), memperbarui (updateFasilitas), menghapus (hapusFasilitas), dan mencari fasilitas (cariFasilitas).
 - Data fasilitas disimpan sementara dalam ArrayList<Fasilitas>.
 - Fungsi utama package ini adalah menangani semua operasi pada data sesuai input dari pengguna.
