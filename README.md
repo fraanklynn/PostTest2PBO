@@ -142,3 +142,14 @@ Method hapusFasilitas(Scanner scanner) digunakan untuk menghapus fasilitas dari 
 ```
 Method cariFasilitas(Scanner scanner) digunakan untuk mencari fasilitas berdasarkan nama. Program pertama-tama meminta pengguna memasukkan nama fasilitas yang ingin dicari, lalu menyimpannya ke variabel namaCari dan menghapus spasi tambahan dengan trim(). Selanjutnya, program melakukan perulangan for-each untuk memeriksa setiap objek Fasilitas di daftarFasilitas. Jika nama fasilitas mengandung teks yang dicari (diperiksa secara case-insensitive dengan toLowerCase()), program menampilkan detail fasilitas tersebut dan menandai bahwa fasilitas ditemukan. Jika tidak ada fasilitas yang cocok, program menampilkan pesan bahwa fasilitas dengan nama yang dimasukkan tidak ditemukan. Method ini memungkinkan pengguna mencari fasilitas secara fleksibel tanpa harus memasukkan nama persis.
 
+
+## Penjelasan Output
+
+### <img width="660" height="690" alt="Screenshot 2025-09-16 075814" src="https://github.com/user-attachments/assets/bf5a43d5-d82d-4652-b0ef-1ff355cbeb3a" />
+Disini adalah output dari menu 1 yaitu tambahkan fasilitas, disini program meminta memasukkan id dari fasilitas yang ingin ditambahkan, nama fasilitas yang ingin ditambahkan, lalu status dari fasilitas yang ingin ditambahkan jika sudah maka fasilitas berhasil ditambahkan, dan terlihat bahwa fasilitas telah ditambahkan 
+### <img width="625" height="352" alt="Screenshot 2025-09-16 075825" src="https://github.com/user-attachments/assets/e8646f69-908f-4f9b-9fa6-5a7bdc36559b" />
+
+
+
+
+ 
