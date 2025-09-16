@@ -18,7 +18,8 @@ Program ini adalah aplikasi manajemen fasilitas gym berbasis Java dan menerapkan
 4. Class Fasilitas hanya digunakan untuk menyimpan atribut dan constructor data fasilitas.
 
 ## Penjelasan Code
-''' package models;
+```
+package models;
 
 public class Fasilitas {
     public int idFasilitas;
